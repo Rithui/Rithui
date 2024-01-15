@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **jupiter notebook, tensor flow, Pytorch**
 
-- 💬 Ask me about **Docker, Cloud**
+- 💬 Ask me about **Docker, Cloud, Machine Learning**
 
 - 📫 How to reach me **rithuikprakash12@gmail.com**
 
